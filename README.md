@@ -255,7 +255,7 @@ To customize the 'Promo Banner' use the following available settings:
   * If you select "Refresh Popup Notification", it will appear again the next time a user views that page
   * If you select "One-Time Popup Notification", it will appear only one time (unless the user clears their cookies)
 
-![Alt](images/promo-banners-2.jpg)
+![Alt](images/promo-banners2.jpg)
 
 ### Promo Tiles
 
