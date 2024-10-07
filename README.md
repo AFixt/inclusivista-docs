@@ -22,7 +22,7 @@ Note: a fair number of these features requires the use of [Custom Metadata](http
 
 Ensures users confirm their age before entering the store (useful for age-restricted products). When users visit your site for the first time, they will be prompted with a confirmation dialog asking "Are you 18 or older?". If the user selects "Yes," they will be redirected to the site. If "No" is selected, they will be unable to proceed.
 
-To Enable the Age Verifier and Change the text message, go to 'Theme Setting' -> 'Age Verification'
+To Enable the Age Verifier and Change the text message, go to 'Theme Setting' -> 'Age Verification'.
 
 ![Alt](images/age-verifier.png)
 
@@ -30,7 +30,7 @@ To Enable the Age Verifier and Change the text message, go to 'Theme Setting' ->
 
 Allows users to quickly return to the top of the page. When users scroll down, a small button will appear in the bottom right corner of the page. Clicking this button will smoothly scroll the user back to the top of the page.
 
-To enable or disable the Back to Top Button, go to 'Theme Settings' -> 'Back to Top'
+To enable or disable the Back to Top Button, go to 'Theme Settings' -> 'Back to Top'.
 
 ![Alt](images/back-to-top-button.png)
 
@@ -38,13 +38,13 @@ To enable or disable the Back to Top Button, go to 'Theme Settings' -> 'Back to 
 
 Shows the user's navigation path within the site for easy backtracking.
 
-To enable/disable or change the text message, go to 'Theme Setting' -> 'Breadcrumbs'
+To enable/disable or change the text message, go to 'Theme Setting' -> 'Breadcrumbs'.
 
 ![Alt](images/breadcrumbs.png)
 
 ### Colour Swatches
 
-Displays available product colors as clickable options. To use this feature, you must use [variants](https://help.shopify.com/en/manual/products/variants) for your products
+Displays available product colors as clickable options. To use this feature, you must use [variants](https://help.shopify.com/en/manual/products/variants) for your products.
 
 ![Alt](images/color-swatches.png)
 
@@ -52,13 +52,13 @@ Displays available product colors as clickable options. To use this feature, you
 
 Creates urgency by displaying time left for promotions or sales. To support this, our theme contains a section to display a countdown timer. In this section, you can enable and disable the countdown and specify the message you want to show and the date and time until which the countdown will be displayed.
 
-To add. go to theme customization, then add a 'Countdown Timer' section.
+To add a countdown timer, go to theme customization, then add a 'Countdown Timer' section.
 
 ![Alt](images/countdown-timer.png)
 
 ### Translations
 
-Currently the theme offers translations for key European languages: (EN, FR, IT, DE, ES)
+Currently the theme offers translations for key European languages: (English (EN), French (FR), German (DE), Italian (IT), and Spanish (ES))
 
 To add or edit translations, go to 'Settings' -> 'Languages'
 
@@ -68,7 +68,7 @@ To add or edit translations, go to 'Settings' -> 'Languages'
 
 Displays promotions within the navigation menu. This feature shows banner images on a 'Mega Menu' Drop Down.
 
-To modify/ add this, to go 'Section' -> 'Header' -> 'Upload Image'. There, you will be able to add an image and a link.
+To modify/ add this, to go 'Section' -> 'Header' -> 'Upload Image'. From there, you will be able to add an image and a link.
 
 ![Alt](images/in-menu-promos.png)
 
@@ -76,7 +76,7 @@ To modify/ add this, to go 'Section' -> 'Header' -> 'Upload Image'. There, you w
 
 Automatically loads more products as the user scrolls down.  
 
-By Default Infinite Scroll is enabled. Some accessibility advocates tend to dislike infinie scroll. So, we've added the option to use a 'Load More' button instead, which will allow users to avoid infinite scroll and be in control of when to load more content on
+By Default Infinite Scroll is enabled. Some accessibility advocates tend to dislike infinite scroll, so we've added the option to use a 'Load More' button instead.  This control will allow users to avoid infinite scroll and be in control of when to load more content on the page.
 
 Enable/ disable the 'Load More' button at: 'Theme Settings' -> 'Infinite Scroll' -> 'Enable Load More Button'
 
@@ -98,7 +98,7 @@ To configure it as a Mega Menu go to 'Online Store' -> 'Theme' -> 'Customize' ->
 
 Allows users to preview product details without leaving the page.  
 
-This adds a 'Quick View' button on category page product cards. Using this button, users can see some product details on the category page.
+This adds a 'Quick View' button on category page product cards. By using this button, users can see some key product details on the category page.
 
 To enable/ disable this and modify its settings, go to: 'Collection page' -> 'Section' -> 'Product Grid' -> 'Theme Settings' -> 'Quick View'
 
@@ -108,7 +108,7 @@ To enable/ disable this and modify its settings, go to: 'Collection page' -> 'Se
 
 Shows how many items are left in stock.  
 
-To enable or disable, go to 'Template' -> 'Product Information' -> 'Section' -> 'Product Information' -> 'Inventory Status'
+To enable or disable, go to 'Template' -> 'Product Information' -> 'Section' -> 'Product Information' -> 'Inventory Status'.
 
 ![Alt](images/stock-counter.png)
 
@@ -116,11 +116,11 @@ To enable or disable, go to 'Template' -> 'Product Information' -> 'Section' -> 
 
 Helps users find physical store locations.  
 
-To use this feature, you will need a [Google Maps API Key](https://developers.google.com/maps/documentation/embed/get-api-key). To add your key, go to 'pages', then select 'store-locator'. There, you can save your Google API Key and default map zoom level
+To use this feature, you will need a [Google Maps API Key](https://developers.google.com/maps/documentation/embed/get-api-key). To add your key, go to 'pages', then select 'store-locator'. There, you can save your Google API Key and default map zoom level.
 
 ![Alt](images/store-locator.png)
 
-While on that page, you can also add your store locations. In the 'Template' section, under 'Store Locator' you can hit 'Add Store' to save the addresses of your stores.
+While on the Store Locator page, you can also add your store locations. In the 'Template' section, under 'Store Locator' you can hit 'Add Store' to save the addresses of your stores.
 
 Note: Latitude and Longitude are required. [How to get them](https://support.google.com/maps/answer/18539)
 
