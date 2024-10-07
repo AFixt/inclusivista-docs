@@ -52,6 +52,9 @@ Displays available product colors as clickable options. To use this feature, you
 
 Creates urgency by displaying time left for promotions or sales. To support this, our theme contains a section to display a countdown timer. In this section, you can enable and disable the countdown and specify the message you want to show and the date and time until which the countdown will be displayed.
 
+To add. go to theme customization, then add a 'Countdown Timer' section.
+
+
 ![Alt](images/countdown-timer.png)
 
 ### Translations
