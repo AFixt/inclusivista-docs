@@ -1,6 +1,6 @@
 # InclusiVista Theme Documentation
 
-Documentation for the InclusiVista Shopify Theme by AFixt.
+Documentation for the InclusiVista Shopify Theme by AFixt
 
 ## Introduction and Overview
 
@@ -8,7 +8,7 @@ The InclusiVista Shopify Theme was created to provide Shopify store owners the a
 
 ## Accessibility Note
 
-This theme has been tested by independent accessibility experts, including testers with disabilities, against a checklist of nearly 270 check items, using a robust testing methodology.  That said, it is up to both the implementer of the theme and the store owner to ensure accessibility of the final store and its content. One of the quickest ways to create accessibility problems is to modify the colors with colors that have insufficient contrast. A [number of tools exist](https://www.google.com/search?q=chrome+webstore+accessibility+color+tools) to check your color contrast. We strongly recommend diligently checking the contrast of your final implementation.
+This theme has been tested by independent accessibility experts, including testers with disabilities, against a checklist of nearly 270 check items using a robust testing methodology.  That said, it is up to both the implementer of the theme and the store owner to ensure the accessibility of the final store and its content. One of the quickest ways to create accessibility problems is to modify the colors with colors that have insufficient contrast. A [number of tools exist](https://www.google.com/search?q=chrome+webstore+accessibility+color+tools) to check your color contrast. We strongly recommend diligently checking the contrast of your final implementation.
 
 Throughout this documentation we will make numerous notes and recommendations regarding the accessibility of the features in the theme. Please be sure to read them.
 
