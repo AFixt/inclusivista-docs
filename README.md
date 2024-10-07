@@ -54,7 +54,6 @@ Creates urgency by displaying time left for promotions or sales. To support this
 
 To add. go to theme customization, then add a 'Countdown Timer' section.
 
-
 ![Alt](images/countdown-timer.png)
 
 ### Translations
@@ -140,6 +139,8 @@ Note: using a sticky header may cause accessibility problems for users with cert
 ### Cart Notes
 
 Allows customers to add notes to their cart (e.g., special instructions).  
+
+To enable Cart Notes, go to theme settings, then 'Cart'. Inside cart settings, you can enable 'cart notes'.
 
 ![Alt](images/cart-notes.png)
 
