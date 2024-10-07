@@ -359,14 +359,14 @@ Once there, go to 'Product card'. There, you can enable 'Show second Image on ho
 
 Allows users to browse multiple images of a product.  
 
-To add an image gallery, :
+To add an image gallery:
 
 * Go to theme customization, then select 'Products' -> 'Default products'.
 * Once there, go to 'Template' section -> 'Product Information'.
 
 ![Alt](images/image-galleries.jpg)
 
-To enable or set different types of 'image galleries' :
+To enable or set different types of 'image galleries':
 
 * Go to 'Product Information'  -> 'Media' -> 'Desktop layout', then select '2 columns'.
 
@@ -376,11 +376,16 @@ To enable or set different types of 'image galleries' :
 
 Enables users to zoom in on product images for a closer look.  
 
+To add 'Image Zoom', go to theme customization, then select 'Products' -> 'Default products'.
+From there, go to 'Template' section -> 'Product Information'.
+
 ![Alt](images/image-zoom.jpg)
 
+To enable or set different types of 'image galleries', go to 'Product Information'  -> 'Media'
+
+From there, go to 'Image zoom' and select 'Open lightbox'.
+
 ![Alt](images/image-zoom2.jpg)
-
-
 
 ### Lookbooks
 
