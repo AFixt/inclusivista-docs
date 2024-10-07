@@ -1,6 +1,6 @@
 # InclusiVista Theme Documentation
 
-Documentation for the InclusiVista Shopify Theme by AFixt
+Documentation for the InclusiVista Shopify Theme by AFixt.
 
 ## Introduction and Overview
 
