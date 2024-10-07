@@ -148,9 +148,9 @@ To enable Cart Notes, go to theme settings, then 'Cart'. Inside cart settings, y
 
 Offers gift wrapping options during checkout. This theme contains a feature to add gift wrap as a product.
 
-To enable/ disable this feature, go to 'Theme Settings -> 'Cart' -> 'Enable Cart Gift'
+This setting allows customers to select gift wrapping for a product they wish to give as a gift. The admin can create a dummy product to be used as the gift wrap. When the customer selects this product, it will be added to the cart, notifying the seller that the customer has also requested gift wrapping.
 
-Here you have to select a product which is needed to add to cart when the checkbox is checked.
+To enable/ disable this feature, go to 'Theme Settings -> 'Cart' -> 'Enable Cart Gift'
 
 ![Alt](images/gift-wrapping.png)
 
