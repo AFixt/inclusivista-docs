@@ -448,12 +448,22 @@ Provides a guide to product sizing (e.g., clothing measurements).
 
 ![Alt](images/size-chart.jpg)
 
-To add a size chart to a product:
+To Show the 'Size Chart' image in a collapsible area:
 
-* Select a Product and scroll down to 'Product metafields'
-* Select 'Size Chart' and 'Select image' that you show on the product page.
+* Go to 'theme customization' -> select 'Products' -> 'Default products'.
+* Go to 'Template' -> 'Product Information'.
+* 'Add block' then Add 'Collapsible row'  -> Select Size Chart -> Connect with dynamic source -> Row content from page -> select 'Product' -> select 'Size Chart'.
 
 ![Alt](images/size-chart2.jpg)
+
+To Show a 'Size Chart' image directly on product page:
+
+* Go to theme customization, then select 'Products' -> 'Default products'.
+* Go to 'Template' section -> 'Product Information'.
+* 'Add block' and select 'File Block'.
+* Click on Connect with dynamic source -> select 'Size Chart'.
+
+This will directly show the product size chart image.
 
 ![Alt](images/size-chart3.jpg)
 
