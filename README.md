@@ -251,7 +251,7 @@ To Add the 'Promo Banner' section, go to theme customization. Then you can add a
 
 ![Alt](images/promo-banners.jpg)
 
-To Enable the 'Promo Banner' section go to 'Promo Banner' -> 'Enable Popup'
+To Enable the 'Promo Banner' section go to 'Promo Banner', then select 'Enable Popup'
 
 To customize the 'Promo Banner' use the following available settings:
 
