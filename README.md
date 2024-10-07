@@ -325,9 +325,18 @@ You can add image and text in these badges.
 
 Image hotspots are interactive points on an image that display product details or info.  
 
-To add an Image hotspot you can add multiple products on the same image.
+To manage, go to theme customization.
 
-Note: You should manage the color for the tooltip to ensure that it provides sufficient color contrast
+* There, you can add a section, 'Tooltips'
+* Inside 'Tooltips' settings, you can add a main image and other settings
+* Inside the 'Tooltips' section there is 'Tooltip Title' Block where you can add the product to show when the tooltip is clicked.
+
+#### Accessibility
+
+In general, these are a difficult feature to get accessible for all users and, as a result, this isn't a feature we recommend using due to the inherent difficulties some people may have in finding them.
+
+When creating the tooltips, be sure to manage the color for the tooltip to ensure that it provides sufficient color contrast.
+
 
 ![Alt](images/image-hotspots.jpg)
 
