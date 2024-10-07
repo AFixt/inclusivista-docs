@@ -212,7 +212,13 @@ To enable Badges:
 
 ### Sticky Cart
 
-Keeps the shopping cart visible while users browse the store.  
+Keeps the shopping cart visible while users browse the store.  When enabled, when users add products by the 'Add to cart' button the cart shows
+
+To enable, go to theme customization, then 'Cart'. Under 'Cart Type':
+
+* Select 'Drawer Notification' as cart type to enable both drawer and sticky cart
+* Select 'Drawer' if you want to show sticky cart only.
+
 
 ![Alt](images/sticky-cart.jpg)
 
